@@ -1,0 +1,19 @@
+<!DOCTYPE ECU_XML>
+<CAN_BUS>
+ <ECU>
+  <Name>ECU 0</Name>
+  <Protocol_type>CAN</Protocol_type>
+ </ECU>
+ <ECU>
+  <Name>ECU 12</Name>
+  <Protocol_type>TTCAN</Protocol_type>
+ </ECU>
+ <ECU>
+  <Name>ECU 1</Name>
+  <Protocol_type>CAN</Protocol_type>
+ </ECU>
+ <ECU>
+  <Name>ECU 2</Name>
+  <Protocol_type>TTCAN</Protocol_type>
+ </ECU>
+</CAN_BUS>

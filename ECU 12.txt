@@ -1,0 +1,2 @@
+Name : ECU 12,
+Protocol_type : TTCAN,
